@@ -112,3 +112,7 @@ body {
 .contact-list--link__twitter > .contact-list--icon {
   color: #1da1f2;
 }
+
+.contact-list--link__github > .contact-list--icon {
+  color: #333;
+}
